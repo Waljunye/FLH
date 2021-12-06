@@ -1,0 +1,28 @@
+@font-face {
+    font-family: SF-Pro-Display-Medium;
+    src: url("fonts/SF-Pro-Display-Medium.otf");
+}
+@font-face {
+    font-family: SF-Pro-Display-Ultralight;
+    src: url("fonts/SF-Pro-Display-Ultralight.otf");
+}
+@font-face {
+    font-family: SF-Pro-Display-Thin;
+    src: url("fonts/SF-Pro-Display-Thin.otf");
+}
+@font-face {
+    font-family: SF-Pro-Display-Light;
+    src: url("fonts/SF-Pro-Display-Light.otf");
+}
+body {
+    margin: 0;
+    font-size: 16px;
+}
+.link {
+    text-decoration: underline;
+    color: black;
+}
+a {
+    color: black;
+    text-decoration: none;
+}

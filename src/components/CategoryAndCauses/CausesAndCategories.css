@@ -1,0 +1,15 @@
+.causes-and-categories {
+    font-size: 1em;
+    letter-spacing: 0.05em;
+    margin-left: 3em;
+    font-family: SF-Pro-Display-Thin;
+}
+
+.causes-and-categories * {
+    margin-bottom: 2.5em;
+    transition: color 0.2s ease-in-out;
+}
+
+.causes-and-categories *:hover {
+    color: #685D4B;
+}

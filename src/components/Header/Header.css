@@ -1,0 +1,44 @@
+header {
+    background-color: #254E58;
+    width: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    color: white;
+    border-bottom: #685D4B 15px solid;
+}
+header .nav-section {
+    display: flex;
+    font-size: 24px;
+    letter-spacing: 0.05em;
+    font-family: SF-Pro-Display-Ultralight;
+}
+header .nav-section * {
+    margin-right: 1em;
+}
+.logo {
+    font-size: 36px;
+    text-align: right;
+    color: white;
+    font-family: SF-Pro-Display-Thin;
+}
+.logo-link{
+    text-decoration: none;
+}
+.logo p {
+    margin: 0;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+.nav-button {
+    color: white;
+    transition: border-bottom-color 0.1s ease-in-out, color 0.1s ease-in-out;
+}
+.nav-button:hover {
+    border-bottom-color: #685D4B;
+    color: #685D4B;
+}

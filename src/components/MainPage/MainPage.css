@@ -1,0 +1,25 @@
+.main-page-body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 10em;
+    height: 40em;
+}
+.main-body-text {
+    font-size: 48px;
+    font-family: SF-Pro-Display-Thin;
+    line-height: 57px;
+}
+.to-form{
+    display: flex;
+    justify-content: flex-end;
+}
+.link {
+    color: white;
+}
+.carousel {
+    width: 60em;
+}
+.carousel-link {
+    text-align: center;
+}

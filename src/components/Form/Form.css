@@ -1,0 +1,53 @@
+.form-section {
+    text-align: center;
+}
+.form *{
+    margin-bottom: 4em;
+}
+h2{
+    font-size: 48px;
+    letter-spacing: 0.05em;
+    font-family: SF-Pro-Display-Ultralight;
+    margin: 15px;
+    position: center;
+}
+
+.category{
+    user-select: none;
+    margin: 15px;
+    position: center;
+    height: 2em;
+    width: 30%;
+    font-size: 1em;
+}
+.text{
+    font-size: 24px;
+    letter-spacing: 0.05em;
+    font-family: SF-Pro-Display-Ultralight;
+    padding: 5px;
+    margin: 15px;
+    position: center;
+}
+.birth-date{
+    margin: 15px;
+    position: center;
+    width: 10%;
+    height: 2em;
+}
+.checkbox{
+    margin: 15px;
+    position: center;
+}
+.button{
+    margin: 15px;
+    height: 40px;
+    width: 100px;
+    border-radius: 3px;
+    border: none;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    position: center;
+}
+.button:hover{
+    background-color: #254E58;
+    color: white;
+}
